@@ -1,0 +1,9 @@
+{
+    "require": {
+        "behat/behat":           ">=2.2.2",
+        "behat/common-contexts": "*",
+        "kriswallsmith/buzz":    ">=0.5"
+    },
+
+    "config": { "bin-dir": "bin/" }
+}
